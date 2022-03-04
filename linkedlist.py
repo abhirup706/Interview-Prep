@@ -117,5 +117,6 @@ if __name__ == '__main__':
     print(ll.get_length())
     #ll.remove_at(20)
     ll.insert_at(2,45)
+    ll.insert_at(3,52)
     ll.print()
 
